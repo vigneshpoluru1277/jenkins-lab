@@ -53,6 +53,7 @@
 	</dependencies>
 
 	<build>
+	<finalName>springpractice</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
@@ -60,5 +61,5 @@
 			</plugin>
 		</plugins>
 	</build>
-	<finalName>springpractice</finalName>
+
 </project>
